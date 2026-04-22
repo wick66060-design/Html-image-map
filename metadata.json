@@ -1,0 +1,6 @@
+{
+  "name": "Precision Image Mapper",
+  "description": "Generate accurate HTML image maps from images using AI. Extracts polygon coordinates for specified regions and provides clean, optimized HTML output.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
